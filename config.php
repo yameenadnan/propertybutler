@@ -1,5 +1,5 @@
 <?php
-echo 'test'; This is yameen adnan
+echo 'test';
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /*
