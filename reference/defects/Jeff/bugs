@@ -1,0 +1,25 @@
+1- Defect detail
+Remove due date.
+
+2- Defect detail
+Created by not visible (In case of created_by = -2, -2 means Developer should be shown)
+
+3- Defect detail
+Defect Detail shows nothing while in defect_detail it contains value.
+
+4- Defect detail
+2nd Created Date should be dd-mm-yyyy
+
+5- Defect forum:
+When developer post a comment his details is not visible (In case of created_by = -2, -2 means Developer should be shown)
+
+6- All screens 
+Defect ID: Can you show defect ID like 00001, 00023  (If Task ID is same then do otherwise no need)
+
+7- Defect Filter
+Sort by :
+Remove Due Date
+and Add
+Created Date Asc
+Created Date Desc
+And it should send "asc" and "desc" only

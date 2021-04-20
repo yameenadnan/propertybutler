@@ -1,0 +1,78 @@
+https://www.propertybutler.my/index.php/bms_api_for_mobile_v3_0/getAllJmbDefects
+{
+	"auth_key" :"gXR65_*4!sU-8paCyuvwR7Efv*DLBDV$",
+	"propertyID": "153",
+	"unit_id": "17389",
+	"defectStatus": 'C',			// Optional
+	"defect_id":"1",				// Optional
+	"offset": "0",					// Optional
+	"rows": "10",					// Optional
+	"sort_by": "asc",				// Optional
+	"search_text": "Leakage"		// Optional
+}
+
+
+https://www.propertybutler.my/index.php/bms_api_for_mobile_v3_0/getDefectDetails
+{
+	"auth_key" :"gXR65_*4!sU-8paCyuvwR7Efv*DLBDV$",
+	"propertyID": "153",
+	"defectID": "1",
+	"userType": "owner",
+	"staffID": "123"		// Optional (if usertype is staff then use this)
+}
+
+
+https://www.propertybutler.my/index.php/bms_api_for_mobile_v3_0/createDefect
+{
+	"auth_key" :"gXR65_*4!sU-8paCyuvwR7Efv*DLBDV$",
+	"property_id": "101",
+	"unit_id": "3758",
+	"defect_name": "Roof Leakage",
+	"defect_location": "Roof",
+	"defect_detail": "This is text",
+	"created_by": "-1",
+	"files":upload file,				// optional
+	"images":images to upload,			// optional
+}
+
+
+https://www.propertybutler.my/index.php/bms_api_for_mobile_v3_0/getDefectForum
+{
+	"auth_key" :"gXR65_*4!sU-8paCyuvwR7Efv*DLBDV$",
+	"defectID": "1"
+}
+
+
+https://www.propertybutler.my/index.php/bms_api_for_mobile_v3_0/getDefectLog
+{
+	"auth_key" :"gXR65_*4!sU-8paCyuvwR7Efv*DLBDV$",
+	"defectID": "1"
+}
+
+
+https://www.propertybutler.my/index.php/bms_api_for_mobile_v3_0/setDefectStatus
+{
+	"auth_key" :"gXR65_*4!sU-8paCyuvwR7Efv*DLBDV$",
+	"defectID": "1",
+	"defect_update": "Closed",
+	"close_remarks": "My close remarks",
+	"staff_id": "-1"
+}
+
+
+https://www.propertybutler.my/index.php/bms_api_for_mobile_v3_0/setDefectForum
+{
+	"auth_key" :"gXR65_*4!sU-8paCyuvwR7Efv*DLBDV$",
+	"defect_id": "1",
+	"chat_text": "Text",					// either text or file
+	"file": file,							// image file to upload
+	"staff_id": "-1"
+}
+
+
+https://www.propertybutler.my/index.php/bms_api_for_mobile_v3_0/defectImage
+Defect image to uplad
+
+
+https://www.propertybutler.my/index.php/bms_api_for_mobile_v3_0/defect_image_submit
+Defect image to uplad

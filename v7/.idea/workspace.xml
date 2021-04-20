@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f63c661a-fe83-4239-b5c6-3c12d2f5afcc" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Bms_api_for_vms_model.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/models/Bms_api_for_vms_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+              <folding>
+                <marker date="1599711861167" expanded="true" signature="245:461" ph="SELECT prebo... bms_vms_prebook_visitors" />
+                <marker date="1599711861167" expanded="true" signature="634:765" ph="SELECT prebo... bms_vms_prebook_visitors" />
+                <marker date="1599711861167" expanded="true" signature="935:1058" ph="SELECT mobil... bms_vms_prebook_visitors" />
+                <marker date="1599711861167" expanded="true" signature="1438:1631" ph="SELECT frequ... bms_vms_frequent_visitor" />
+                <marker date="1599711861167" expanded="true" signature="1844:2037" ph="SELECT frequ... bms_vms_frequent_visitor" />
+                <marker date="1599711861167" expanded="true" signature="2223:2405" ph="SELECT mobil... bms_vms_frequent_visitor" />
+                <marker date="1599711861167" expanded="true" signature="2770:2944" ph="SELECT note_... " />
+                <marker date="1599711861167" expanded="true" signature="3285:3460" ph="SELECT panic... bms_vms_panic_alert" />
+                <marker date="1599711861167" expanded="true" signature="5327:5496" ph="SELECT push_... bms_property_units" />
+                <marker date="1599711861167" expanded="true" signature="5860:6035" ph="SELECT push_... bms_property_unit_tenants" />
+                <marker date="1599711861167" expanded="true" signature="6406:6582" ph="SELECT push_... bms_property_unit_ma_users" />
+                <marker date="1599711861167" expanded="true" signature="6788:9206" ph="SELECT a.uni... bms_property_units" />
+                <marker date="1599711861167" expanded="true" signature="6924:7126" ph="SELECT CONCA... bms_property_units" />
+                <marker date="1599711861167" expanded="true" signature="7511:7649" ph="SELECT CONCA... bms_property_unit_ma_users" />
+                <marker date="1599711861167" expanded="true" signature="7676:7814" ph="SELECT CONCA... bms_property_unit_ma_users" />
+                <marker date="1599711861167" expanded="true" signature="7841:7979" ph="SELECT CONCA... bms_property_unit_ma_users" />
+                <marker date="1599711861167" expanded="true" signature="8006:8144" ph="SELECT CONCA... bms_property_unit_ma_users" />
+                <marker date="1599711861167" expanded="true" signature="8171:8309" ph="SELECT CONCA... bms_property_unit_ma_users" />
+                <marker date="1599711861167" expanded="true" signature="8588:8790" ph="SELECT CONCA... bms_property_units" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bms_daily_report_model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/Bms_daily_report_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1571898669951" expanded="true" signature="240:1805" ph="SELECT count... bms_sop" />
+                <marker date="1571898669951" expanded="true" signature="2055:4175" ph="SELECT sop_i... bms_sop" />
+                <marker date="1571898669951" expanded="true" signature="2399:2528" ph="SELECT bms_s... bms_sop_entry" />
+                <marker date="1571898669951" expanded="true" signature="4417:4857" ph="SELECT staff... bms_staff" />
+                <marker date="1571898669951" expanded="true" signature="4781:4840" ph="SELECT staff... bms_staff_property" />
+                <marker date="1571898669951" expanded="true" signature="5163:5460" ph="SELECT a.att... bms_staff_attendance" />
+                <marker date="1571898669951" expanded="true" signature="5898:6785" ph="SELECT task_... bms_task" />
+                <marker date="1571898669951" expanded="true" signature="7234:7749" ph="SELECT * FRO... bms_sop" />
+                <marker date="1571898669951" expanded="true" signature="7619:7748" ph="SELECT bms_s... bms_sop_entry" />
+                <marker date="1571898669951" expanded="true" signature="7987:8654" ph="SELECT a.id,... bms_sop_entry" />
+                <marker date="1571898669951" expanded="true" signature="8523:8614" ph="SELECT bms_s... bms_sop" />
+                <marker date="1571898669951" expanded="true" signature="8877:9273" ph="SELECT id,so... bms_sop_sub_entry" />
+                <marker date="1571898669951" expanded="true" signature="9958:10465" ph="SELECT a.ser... bms_service_provider" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bms_agm_egm.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Bms_agm_egm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="48" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="15" selection-end-column="48" />
+              <folding>
+                <marker date="1570597939873" expanded="true" signature="36389:36720" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="37138:37165" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="37166:38036" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="38544:38571" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="38572:39073" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="39249:39277" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="39278:39476" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="40319:40650" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="41055:41082" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="41083:41880" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="42324:42351" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="42352:42820" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="43041:43069" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="43070:43268" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="44464:44795" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="45200:45227" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="45228:45986" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="46430:46457" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="46458:46926" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="47147:47175" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="47176:47374" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="48385:48716" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="49099:49126" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="49127:49696" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="50108:50135" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="50136:50637" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="50850:50878" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="50879:51077" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="62632:62660" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="62661:63088" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="63507:63535" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="63536:63802" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="64776:64804" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="64805:65224" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="65658:65686" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="65687:65961" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="66170:66198" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="66199:66271" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="67535:67563" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="67564:67952" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="68386:68414" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="68415:68689" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="68908:68936" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="68937:69009" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="69969:69997" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="69998:70306" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="70708:70736" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="70737:71003" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="71204:71232" ph="..." />
+                <marker date="1570597939873" expanded="true" signature="71233:71304" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bms_agm_egm_vote.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Bms_agm_egm_vote.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="59" lean-forward="false" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bms_api_for_mobile_v3_0.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Bms_api_for_mobile_v3_0.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+              <folding>
+                <marker date="1592534354961" expanded="true" signature="33474:34364" ph="..." />
+                <marker date="1592534354961" expanded="true" signature="33497:33968" ph="..." />
+                <marker date="1592534354961" expanded="true" signature="33733:33944" ph="..." />
+                <marker date="1592534354961" expanded="true" signature="33764:33916" ph="{...}" />
+                <marker date="1592534354961" expanded="true" signature="33991:34340" ph="..." />
+                <marker date="1592534354961" expanded="false" signature="34054:34147" ph="..." />
+                <marker date="1592534354961" expanded="true" signature="34148:34316" ph="..." />
+                <marker date="1592534354961" expanded="true" signature="43967:44917" ph="..." />
+                <marker date="1592534354961" expanded="true" signature="43994:44501" ph="..." />
+                <marker date="1592534354961" expanded="true" signature="44242:44473" ph="..." />
+                <marker date="1592534354961" expanded="true" signature="44277:44441" ph="{...}" />
+                <marker date="1592534354961" expanded="true" signature="44528:44889" ph="..." />
+                <marker date="1592534354961" expanded="false" signature="44599:44692" ph="..." />
+                <marker date="1592534354961" expanded="true" signature="44693:44861" ph="..." />
+                <marker date="1592534354961" expanded="true" signature="142580:143470" ph="..." />
+                <marker date="1592534354961" expanded="true" signature="142603:143074" ph="..." />
+                <marker date="1592534354961" expanded="true" signature="142839:143050" ph="..." />
+                <marker date="1592534354961" expanded="true" signature="142870:143022" ph="{...}" />
+                <marker date="1592534354961" expanded="true" signature="143097:143446" ph="..." />
+                <marker date="1592534354961" expanded="false" signature="143160:143253" ph="..." />
+                <marker date="1592534354961" expanded="true" signature="143254:143422" ph="..." />
+                <marker date="1592534354961" expanded="true" signature="151485:152435" ph="..." />
+                <marker date="1592534354961" expanded="true" signature="151512:152019" ph="..." />
+                <marker date="1592534354961" expanded="true" signature="151760:151991" ph="..." />
+                <marker date="1592534354961" expanded="true" signature="151795:151959" ph="{...}" />
+                <marker date="1592534354961" expanded="true" signature="152046:152407" ph="..." />
+                <marker date="1592534354961" expanded="false" signature="152117:152210" ph="..." />
+                <marker date="1592534354961" expanded="true" signature="152211:152379" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bms_api_for_vms.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Bms_api_for_vms.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1275">
+              <caret line="51" column="22" lean-forward="false" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bms_fin_ap_cn_dn.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Bms_fin_ap_cn_dn.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bms_defect.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Bms_defect.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="40" lean-forward="false" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+              <folding>
+                <marker date="1592188809621" expanded="true" signature="7792:7819" ph="..." />
+                <marker date="1592188809621" expanded="true" signature="11647:12301" ph="..." />
+                <marker date="1592188809621" expanded="true" signature="11674:12181" ph="..." />
+                <marker date="1592188809621" expanded="true" signature="11922:12153" ph="..." />
+                <marker date="1592188809621" expanded="true" signature="11957:12121" ph="{...}" />
+                <marker date="1592188809621" expanded="true" signature="12208:12273" ph="..." />
+                <marker date="1592188809621" expanded="true" signature="20506:21160" ph="..." />
+                <marker date="1592188809621" expanded="true" signature="20533:21040" ph="..." />
+                <marker date="1592188809621" expanded="true" signature="20781:21012" ph="..." />
+                <marker date="1592188809621" expanded="true" signature="20816:20980" ph="{...}" />
+                <marker date="1592188809621" expanded="true" signature="21067:21132" ph="..." />
+                <marker date="1592188809621" expanded="true" signature="24051:24705" ph="..." />
+                <marker date="1592188809621" expanded="true" signature="24078:24585" ph="..." />
+                <marker date="1592188809621" expanded="true" signature="24326:24557" ph="..." />
+                <marker date="1592188809621" expanded="true" signature="24361:24525" ph="{...}" />
+                <marker date="1592188809621" expanded="true" signature="24612:24677" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bms_defect_model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/Bms_defect_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+              <folding>
+                <marker date="1587631819553" expanded="true" signature="1467:1992" ph="SELECT d.blo... bms_defect" />
+                <marker date="1587631819553" expanded="true" signature="1920:1978" ph="SELECT prope... bms_staff_property" />
+                <marker date="1587631819553" expanded="true" signature="2347:3252" ph="SELECT a.def... bms_defect" />
+                <marker date="1587631819553" expanded="true" signature="3180:3238" ph="SELECT prope... bms_staff_property" />
+                <marker date="1587631819553" expanded="true" signature="3437:4212" ph="SELECT a.def... bms_defect" />
+                <marker date="1587631819553" expanded="true" signature="4993:5659" ph="SELECT a.def... defect_id" />
+                <marker date="1587631819553" expanded="true" signature="5170:5326" ph="SELECT defec... bms_defect_log" />
+                <marker date="1587631819553" expanded="true" signature="5359:5529" ph="SELECT defec... bms_defect_forum" />
+                <marker date="1587631819553" expanded="true" signature="6381:6757" ph="SELECT defec... bms_defect" />
+                <marker date="1587631819553" expanded="true" signature="7242:7884" ph="SELECT a.def... defect_id" />
+                <marker date="1587631819553" expanded="true" signature="7379:7548" ph="SELECT defec... bms_defect_log" />
+                <marker date="1587631819553" expanded="true" signature="7581:7754" ph="SELECT defec... bms_defect_forum" />
+                <marker date="1587631819553" expanded="true" signature="8865:9138" ph="SELECT defec... bms_defect" />
+                <marker date="1587631819553" expanded="true" signature="9288:9561" ph="SELECT defec... bms_defect" />
+                <marker date="1587631819553" expanded="true" signature="10857:11262" ph="SELECT d.blo... bms_defect" />
+                <marker date="1587631819553" expanded="true" signature="11638:12451" ph="SELECT defec... bms_defect" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bms_agm_egm_model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/Bms_agm_egm_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding>
+                <marker date="1592008844626" expanded="true" signature="331:589" ph="SELECT agm_a... bms_agm_attendance" />
+                <marker date="1592008844626" expanded="true" signature="924:1008" ph="SELECT a.cha... bms_agm_attendance" />
+                <marker date="1592008844626" expanded="true" signature="6580:6698" ph="SELECT agm_m... bms_agm_master" />
+                <marker date="1592008844626" expanded="true" signature="7182:7319" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>data.</find>
+      <find>data.le</find>
+      <find>data.len</find>
+      <find>data.length</find>
+      <find>aj</find>
+      <find>$ajax</find>
+      <find>getSubCategoryList</find>
+      <find>ajax</find>
+      <find>LoadingOverlay</find>
+      <find>loadingoverlay</find>
+      <find>expenses_list</find>
+      <find>publi_paging</find>
+      <find>previous_link</find>
+      <find>delete</find>
+      <find>offset</find>
+      <find>remove_item</find>
+      <find>loadContent</find>
+      <find>get_prebooks_of_property</find>
+      <find>auth</find>
+      <find>payment</find>
+      <find>$payment_act</find>
+      <find>getPayPropertyDetails</find>
+      <find>getPayUnit</find>
+      <find>getDecryptStr</find>
+      <find>checkEncrypt</find>
+      <find>add_property</find>
+      <find>$</find>
+      <find>$.aja</find>
+      <find>$.ajax</find>
+      <find>header</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>loadDefect</replace>
+      <replace>$defect_details-&gt;</replace>
+      <replace>defect_update_btn</replace>
+      <replace>defect_status_span</replace>
+      <replace>defect_update</replace>
+      <replace>set_defect_status</replace>
+      <replace>defect_close_span</replace>
+      <replace>defect_new</replace>
+      <replace>defect_name</replace>
+      <replace>getMyPropertiesForDefects</replace>
+      <replace>tsp[</replace>
+      <replace>tsp</replace>
+      <replace>city</replace>
+      <replace>town</replace>
+      <replace>sfs_cat_form</replace>
+      <replace>cat_name</replace>
+      <replace>$categories</replace>
+      <replace>category_filter</replace>
+      <replace>cat_id</replace>
+      <replace>$this-&gt;load-&gt;view('sfs/</replace>
+      <replace>php/bms_sfs</replace>
+      <replace>index.php/bms_sfs/</replace>
+      <replace>cat</replace>
+      <replace>bms_sfs_model</replace>
+      <replace>service_info</replace>
+      <replace>tsp_id</replace>
+      <replace>delete_question_item_btn</replace>
+      <replace>delete_question_item</replace>
+      <replace>add_question_item_btn</replace>
+      <replace>add_question_item</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\bms\v7\application\models</dir>
+      <dir>C:\xampp\htdocs\bms\v7\</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Temp/scp50960/application/config/config.php" />
+        <option value="$PROJECT_DIR$/application/views/sfs/sfs_service_form_view.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp23596/application/config/config_items.php" />
+        <option value="$PROJECT_DIR$/application/views/sfs/sfs_question_list_view.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Bms_sfs.php" />
+        <option value="$PROJECT_DIR$/application/views/sfs/sfs_cat_form_view.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp23784/application/views/properties/property_add_view.php" />
+        <option value="$PROJECT_DIR$/application/views/properties/property_add_view-l.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp31120/application/views/sidebar.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp15753/application/views/sidebar.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp12411/application/controllers/Bms_api_for_mobile_v3_0.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp26902/application/models/Bms_masters_model_v3_0.php" />
+        <option value="$PROJECT_DIR$/application/models/Bms_property_model.php" />
+        <option value="$PROJECT_DIR$/application/views/defect/defect_list_view.php" />
+        <option value="$PROJECT_DIR$/application/views/defect/defect_new_view.php" />
+        <option value="$PROJECT_DIR$/../../test/test.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Bms_dashboard.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Bms_defect.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp41011/application/views/sidebar.php" />
+        <option value="&lt;4ac7c77b-a1ed-47a1-b5c6-66c46f9cbe54&gt;/application/views/sidebar.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Bms_index.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp09713/application/controllers/Bms_index.php" />
+        <option value="$PROJECT_DIR$/application/models/Bms_masters_model.php" />
+        <option value="$PROJECT_DIR$/application/models/Bms_masters_model_v3_0.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp45907/application/models/Bms_masters_model_v3_0.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp33626/application/controllers/Bms_api_for_mobile_v3_0.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Bms_api_for_mobile_v3_0.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp48984/application/controllers/Bms_api_for_mobile_v3_0.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp56308/application/controllers/Bms_api_for_vms.php" />
+        <option value="$PROJECT_DIR$/application/views/task_new_view.php" />
+        <option value="$PROJECT_DIR$/application/views/properties/service_details_entry_view.php" />
+        <option value="$PROJECT_DIR$/application/config/config_items.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp21489/application/config/config_items.php" />
+        <option value="$PROJECT_DIR$/application/views/sfs/sfs_question_form_view.php" />
+        <option value="$PROJECT_DIR$/application/models/Bms_sfs_model.php" />
+        <option value="&lt;4ac7c77b-a1ed-47a1-b5c6-66c46f9cbe54&gt;/application/controllers/Bms_api_for_vms.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Bms_e_notice.php" />
+        <option value="$PROJECT_DIR$/application/models/Bms_e_notice_model.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Bms_api_for_vms.php" />
+        <option value="$PROJECT_DIR$/application/models/Bms_cron_jobs_model.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Bms_cron_jobs.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Bms_task.php" />
+        <option value="$PROJECT_DIR$/application/views/finance/purchase_order/purchase_order_add_view.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Bms_fin_cron_jobs.php" />
+        <option value="$PROJECT_DIR$/application/views/finance/expenses/expenses_list_view.php" />
+        <option value="$PROJECT_DIR$/application/models/Bms_api_for_vms_model.php" />
+        <option value="$PROJECT_DIR$/application/views/sidebar.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp13785/application/views/sidebar.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Bms_direct_pay.php" />
+        <option value="$PROJECT_DIR$/application/views/properties/property_add_view.php" />
+        <option value="$USER_HOME$/Desktop/test/CustomFileInputs/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1374" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v7" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\bms\v7\application\models" />
+      <recent name="C:\xampp\htdocs\bms\v7\application\controllers" />
+      <recent name="C:\xampp\htdocs\bms\v7\application\views\sfs" />
+      <recent name="C:\xampp\htdocs\bms\v7\application\views\tsp" />
+      <recent name="C:\xampp\htdocs\bms\v7\application\views\defect" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f63c661a-fe83-4239-b5c6-3c12d2f5afcc" name="Default" comment="" />
+      <created>1579482734798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579482734798</updated>
+      <workItem from="1579482737368" duration="19287000" />
+      <workItem from="1579506491251" duration="56300000" />
+      <workItem from="1579743346633" duration="63621000" />
+      <workItem from="1580202249398" duration="61284000" />
+      <workItem from="1580569875406" duration="2369000" />
+      <workItem from="1580696731460" duration="46030000" />
+      <workItem from="1580886431974" duration="766000" />
+      <workItem from="1580890661176" duration="536000" />
+      <workItem from="1580892956455" duration="50497000" />
+      <workItem from="1581122219707" duration="127948000" />
+      <workItem from="1581923571038" duration="65482000" />
+      <workItem from="1582456989040" duration="72000" />
+      <workItem from="1582509908672" duration="46680000" />
+      <workItem from="1582709114865" duration="37667000" />
+      <workItem from="1583065083491" duration="1942000" />
+      <workItem from="1583069093042" duration="3490000" />
+      <workItem from="1583126623763" duration="43704000" />
+      <workItem from="1583284334076" duration="149632000" />
+      <workItem from="1584321801814" duration="8675000" />
+      <workItem from="1584407709841" duration="73787000" />
+      <workItem from="1584879890463" duration="31280000" />
+      <workItem from="1585028519807" duration="154634000" />
+      <workItem from="1586051740686" duration="101987000" />
+      <workItem from="1586739870473" duration="78905000" />
+      <workItem from="1587113299288" duration="65645000" />
+      <workItem from="1587521141138" duration="21295000" />
+      <workItem from="1587559022144" duration="27581000" />
+      <workItem from="1587722442492" duration="31797000" />
+      <workItem from="1588728943611" duration="106311000" />
+      <workItem from="1589447569161" duration="2203000" />
+      <workItem from="1589449889978" duration="28598000" />
+      <workItem from="1589764774822" duration="1119000" />
+      <workItem from="1589768014400" duration="320000" />
+      <workItem from="1589773729145" duration="44316000" />
+      <workItem from="1590025375858" duration="56913000" />
+      <workItem from="1590656949297" duration="2135000" />
+      <workItem from="1590725399312" duration="9482000" />
+      <workItem from="1590742592749" duration="1282000" />
+      <workItem from="1590800544684" duration="3384000" />
+      <workItem from="1590979424002" duration="1951000" />
+      <workItem from="1590983956394" duration="1676000" />
+      <workItem from="1590996042118" duration="8142000" />
+      <workItem from="1591059851431" duration="20260000" />
+      <workItem from="1591167587110" duration="82000" />
+      <workItem from="1591246525499" duration="757000" />
+      <workItem from="1591319739295" duration="3336000" />
+      <workItem from="1591671174943" duration="1633000" />
+      <workItem from="1591685995971" duration="338000" />
+      <workItem from="1591762299878" duration="817000" />
+      <workItem from="1591933597867" duration="20645000" />
+      <workItem from="1592183137345" duration="16054000" />
+      <workItem from="1592295290743" duration="23762000" />
+      <workItem from="1592395728058" duration="7727000" />
+      <workItem from="1592466630808" duration="15516000" />
+      <workItem from="1592559242461" duration="17000" />
+      <workItem from="1592810750125" duration="3012000" />
+      <workItem from="1592815029535" duration="2238000" />
+      <workItem from="1592993404249" duration="1397000" />
+      <workItem from="1593052433979" duration="693000" />
+      <workItem from="1593153000668" duration="631000" />
+      <workItem from="1593395054230" duration="11000" />
+      <workItem from="1593413930637" duration="908000" />
+      <workItem from="1593487351298" duration="222000" />
+      <workItem from="1593492031653" duration="3911000" />
+      <workItem from="1593576274708" duration="907000" />
+      <workItem from="1593584500541" duration="652000" />
+      <workItem from="1593586831404" duration="396000" />
+      <workItem from="1593686286492" duration="942000" />
+      <workItem from="1593699142844" duration="3715000" />
+      <workItem from="1593751276772" duration="855000" />
+      <workItem from="1593752330146" duration="1916000" />
+      <workItem from="1593757398034" duration="12001000" />
+      <workItem from="1593775464235" duration="10000" />
+      <workItem from="1594000234686" duration="664000" />
+      <workItem from="1594002557115" duration="2678000" />
+      <workItem from="1594005285870" duration="1330000" />
+      <workItem from="1594017480995" duration="1043000" />
+      <workItem from="1594085437789" duration="609000" />
+      <workItem from="1594087694273" duration="5887000" />
+      <workItem from="1594093590247" duration="1087000" />
+      <workItem from="1594096570235" duration="68000" />
+      <workItem from="1594097421727" duration="2914000" />
+      <workItem from="1594182438077" duration="2118000" />
+      <workItem from="1594202359160" duration="9000" />
+      <workItem from="1594258680566" duration="314000" />
+      <workItem from="1594349694330" duration="828000" />
+      <workItem from="1595229871246" duration="889000" />
+      <workItem from="1595231153782" duration="18556000" />
+      <workItem from="1596534278538" duration="2512000" />
+      <workItem from="1599460895817" duration="114000" />
+      <workItem from="1599711351925" duration="8659000" />
+      <workItem from="1600585165661" duration="197000" />
+      <workItem from="1600683870792" duration="151000" />
+      <workItem from="1601370787152" duration="602000" />
+      <workItem from="1601384506557" duration="9000" />
+      <workItem from="1601386166890" duration="1275000" />
+      <workItem from="1601388917646" duration="670000" />
+      <workItem from="1611415523975" duration="2414000" />
+      <workItem from="1616329780556" duration="637000" />
+      <workItem from="1616683071579" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1842338000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1374" height="732" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22693998" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28038067" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20131771" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$USER_HOME$/AppData/Local/Temp/scp55271/application/controllers/Bms_api_for_mobile_v3_0.php</url>
+          <line>2393</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="18" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://E:/PB-Backup/17-June-2020/v7/application/controllers/Bms_api_for_mobile_v3_0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp48984/application/controllers/Bms_api_for_mobile_v3_0.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp56308/application/controllers/Bms_api_for_vms.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/task_new_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5392">
+          <caret line="337" column="40" lean-forward="false" selection-start-line="337" selection-start-column="40" selection-end-line="337" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp21489/application/config/config_items.php" />
+    <entry file="file://$PROJECT_DIR$/application/config/config_items.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="316" column="164" lean-forward="true" selection-start-line="316" selection-start-column="164" selection-end-line="316" selection-end-column="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/properties/service_details_entry_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7104">
+          <caret line="444" column="0" lean-forward="false" selection-start-line="444" selection-start-column="0" selection-end-line="444" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/sfs/sfs_question_form_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1536">
+          <caret line="96" column="137" lean-forward="false" selection-start-line="96" selection-start-column="126" selection-end-line="96" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Bms_sfs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2688">
+          <caret line="168" column="41" lean-forward="false" selection-start-line="168" selection-start-column="41" selection-end-line="168" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Bms_sfs_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="976">
+          <caret line="61" column="4" lean-forward="false" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp40523/application/controllers/Bms_api_for_mobile_v3_0.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/e_notice/create_e_notice_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="33" column="95" lean-forward="false" selection-start-line="33" selection-start-column="95" selection-end-line="33" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Bms_attendance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Bms_attendance_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Bms_e_notice_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="76" column="13" lean-forward="false" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Bms_cron_jobs_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2656">
+          <caret line="166" column="13" lean-forward="false" selection-start-line="166" selection-start-column="13" selection-end-line="166" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Bms_e_notice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="70" column="4" lean-forward="false" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Bms_task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Bms_fin_purchase_order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="62" column="73" lean-forward="false" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Bms_masters_model_v3_0_local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Bms_masters_model_v3_0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19584">
+          <caret line="1224" column="39" lean-forward="false" selection-start-line="1224" selection-start-column="39" selection-end-line="1224" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Bms_task_model_v2_0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Bms_fin_payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10512">
+          <caret line="657" column="5" lean-forward="false" selection-start-line="657" selection-start-column="5" selection-end-line="657" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/finance/expenses/expenses_list_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="162" column="3" lean-forward="true" selection-start-line="162" selection-start-column="3" selection-end-line="162" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Bms_fin_expenses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="35" column="44" lean-forward="false" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/loadingoverlay.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/finance/payment/payment_popup_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="524" column="80" lean-forward="false" selection-start-line="524" selection-start-column="5" selection-end-line="524" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/finance/purchase_order/purchase_order_add_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="278" column="203" lean-forward="false" selection-start-line="278" selection-start-column="203" selection-end-line="278" selection-end-column="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Bms_fin_cron_jobs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="4951" column="0" lean-forward="false" selection-start-line="4951" selection-start-column="0" selection-end-line="4951" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Bms_cron_jobs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="213" column="0" lean-forward="false" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Bms_masters_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Bms_index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="40" column="52" lean-forward="false" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp13785/application/views/sidebar.php" />
+    <entry file="file://$PROJECT_DIR$/application/models/Bms_direct_pay_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/third_party/PHPExcel/Shared/File.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Bms_direct_pay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Bms_property.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1168">
+          <caret line="73" column="55" lean-forward="false" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/properties/property_add_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Bms_fin_ap_cn_dn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Bms_defect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="40" lean-forward="false" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding>
+            <marker date="1592188809621" expanded="true" signature="7792:7819" ph="..." />
+            <marker date="1592188809621" expanded="true" signature="11647:12301" ph="..." />
+            <marker date="1592188809621" expanded="true" signature="11674:12181" ph="..." />
+            <marker date="1592188809621" expanded="true" signature="11922:12153" ph="..." />
+            <marker date="1592188809621" expanded="true" signature="11957:12121" ph="{...}" />
+            <marker date="1592188809621" expanded="true" signature="12208:12273" ph="..." />
+            <marker date="1592188809621" expanded="true" signature="20506:21160" ph="..." />
+            <marker date="1592188809621" expanded="true" signature="20533:21040" ph="..." />
+            <marker date="1592188809621" expanded="true" signature="20781:21012" ph="..." />
+            <marker date="1592188809621" expanded="true" signature="20816:20980" ph="{...}" />
+            <marker date="1592188809621" expanded="true" signature="21067:21132" ph="..." />
+            <marker date="1592188809621" expanded="true" signature="24051:24705" ph="..." />
+            <marker date="1592188809621" expanded="true" signature="24078:24585" ph="..." />
+            <marker date="1592188809621" expanded="true" signature="24326:24557" ph="..." />
+            <marker date="1592188809621" expanded="true" signature="24361:24525" ph="{...}" />
+            <marker date="1592188809621" expanded="true" signature="24612:24677" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Bms_defect_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <marker date="1587631819553" expanded="true" signature="1467:1992" ph="SELECT d.blo... bms_defect" />
+            <marker date="1587631819553" expanded="true" signature="1920:1978" ph="SELECT prope... bms_staff_property" />
+            <marker date="1587631819553" expanded="true" signature="2347:3252" ph="SELECT a.def... bms_defect" />
+            <marker date="1587631819553" expanded="true" signature="3180:3238" ph="SELECT prope... bms_staff_property" />
+            <marker date="1587631819553" expanded="true" signature="3437:4212" ph="SELECT a.def... bms_defect" />
+            <marker date="1587631819553" expanded="true" signature="4993:5659" ph="SELECT a.def... defect_id" />
+            <marker date="1587631819553" expanded="true" signature="5170:5326" ph="SELECT defec... bms_defect_log" />
+            <marker date="1587631819553" expanded="true" signature="5359:5529" ph="SELECT defec... bms_defect_forum" />
+            <marker date="1587631819553" expanded="true" signature="6381:6757" ph="SELECT defec... bms_defect" />
+            <marker date="1587631819553" expanded="true" signature="7242:7884" ph="SELECT a.def... defect_id" />
+            <marker date="1587631819553" expanded="true" signature="7379:7548" ph="SELECT defec... bms_defect_log" />
+            <marker date="1587631819553" expanded="true" signature="7581:7754" ph="SELECT defec... bms_defect_forum" />
+            <marker date="1587631819553" expanded="true" signature="8865:9138" ph="SELECT defec... bms_defect" />
+            <marker date="1587631819553" expanded="true" signature="9288:9561" ph="SELECT defec... bms_defect" />
+            <marker date="1587631819553" expanded="true" signature="10857:11262" ph="SELECT d.blo... bms_defect" />
+            <marker date="1587631819553" expanded="true" signature="11638:12451" ph="SELECT defec... bms_defect" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/test/CustomFileInputs/index.html" />
+    <entry file="file://$PROJECT_DIR$/application/models/Bms_agm_egm_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <marker date="1592008844626" expanded="true" signature="331:589" ph="SELECT agm_a... bms_agm_attendance" />
+            <marker date="1592008844626" expanded="true" signature="924:1008" ph="SELECT a.cha... bms_agm_attendance" />
+            <marker date="1592008844626" expanded="true" signature="6580:6698" ph="SELECT agm_m... bms_agm_master" />
+            <marker date="1592008844626" expanded="true" signature="7182:7319" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Bms_daily_report_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1571898669951" expanded="true" signature="240:1805" ph="SELECT count... bms_sop" />
+            <marker date="1571898669951" expanded="true" signature="2055:4175" ph="SELECT sop_i... bms_sop" />
+            <marker date="1571898669951" expanded="true" signature="2399:2528" ph="SELECT bms_s... bms_sop_entry" />
+            <marker date="1571898669951" expanded="true" signature="4417:4857" ph="SELECT staff... bms_staff" />
+            <marker date="1571898669951" expanded="true" signature="4781:4840" ph="SELECT staff... bms_staff_property" />
+            <marker date="1571898669951" expanded="true" signature="5163:5460" ph="SELECT a.att... bms_staff_attendance" />
+            <marker date="1571898669951" expanded="true" signature="5898:6785" ph="SELECT task_... bms_task" />
+            <marker date="1571898669951" expanded="true" signature="7234:7749" ph="SELECT * FRO... bms_sop" />
+            <marker date="1571898669951" expanded="true" signature="7619:7748" ph="SELECT bms_s... bms_sop_entry" />
+            <marker date="1571898669951" expanded="true" signature="7987:8654" ph="SELECT a.id,... bms_sop_entry" />
+            <marker date="1571898669951" expanded="true" signature="8523:8614" ph="SELECT bms_s... bms_sop" />
+            <marker date="1571898669951" expanded="true" signature="8877:9273" ph="SELECT id,so... bms_sop_sub_entry" />
+            <marker date="1571898669951" expanded="true" signature="9958:10465" ph="SELECT a.ser... bms_service_provider" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Bms_agm_egm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="48" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="15" selection-end-column="48" />
+          <folding>
+            <marker date="1570597939873" expanded="true" signature="36389:36720" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="37138:37165" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="37166:38036" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="38544:38571" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="38572:39073" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="39249:39277" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="39278:39476" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="40319:40650" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="41055:41082" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="41083:41880" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="42324:42351" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="42352:42820" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="43041:43069" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="43070:43268" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="44464:44795" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="45200:45227" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="45228:45986" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="46430:46457" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="46458:46926" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="47147:47175" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="47176:47374" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="48385:48716" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="49099:49126" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="49127:49696" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="50108:50135" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="50136:50637" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="50850:50878" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="50879:51077" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="62632:62660" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="62661:63088" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="63507:63535" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="63536:63802" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="64776:64804" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="64805:65224" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="65658:65686" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="65687:65961" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="66170:66198" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="66199:66271" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="67535:67563" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="67564:67952" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="68386:68414" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="68415:68689" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="68908:68936" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="68937:69009" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="69969:69997" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="69998:70306" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="70708:70736" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="70737:71003" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="71204:71232" ph="..." />
+            <marker date="1570597939873" expanded="true" signature="71233:71304" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Bms_agm_egm_vote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="59" lean-forward="false" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Bms_api_for_mobile_v3_0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding>
+            <marker date="1592534354961" expanded="true" signature="33474:34364" ph="..." />
+            <marker date="1592534354961" expanded="true" signature="33497:33968" ph="..." />
+            <marker date="1592534354961" expanded="true" signature="33733:33944" ph="..." />
+            <marker date="1592534354961" expanded="true" signature="33764:33916" ph="{...}" />
+            <marker date="1592534354961" expanded="true" signature="33991:34340" ph="..." />
+            <marker date="1592534354961" expanded="false" signature="34054:34147" ph="..." />
+            <marker date="1592534354961" expanded="true" signature="34148:34316" ph="..." />
+            <marker date="1592534354961" expanded="true" signature="43967:44917" ph="..." />
+            <marker date="1592534354961" expanded="true" signature="43994:44501" ph="..." />
+            <marker date="1592534354961" expanded="true" signature="44242:44473" ph="..." />
+            <marker date="1592534354961" expanded="true" signature="44277:44441" ph="{...}" />
+            <marker date="1592534354961" expanded="true" signature="44528:44889" ph="..." />
+            <marker date="1592534354961" expanded="false" signature="44599:44692" ph="..." />
+            <marker date="1592534354961" expanded="true" signature="44693:44861" ph="..." />
+            <marker date="1592534354961" expanded="true" signature="142580:143470" ph="..." />
+            <marker date="1592534354961" expanded="true" signature="142603:143074" ph="..." />
+            <marker date="1592534354961" expanded="true" signature="142839:143050" ph="..." />
+            <marker date="1592534354961" expanded="true" signature="142870:143022" ph="{...}" />
+            <marker date="1592534354961" expanded="true" signature="143097:143446" ph="..." />
+            <marker date="1592534354961" expanded="false" signature="143160:143253" ph="..." />
+            <marker date="1592534354961" expanded="true" signature="143254:143422" ph="..." />
+            <marker date="1592534354961" expanded="true" signature="151485:152435" ph="..." />
+            <marker date="1592534354961" expanded="true" signature="151512:152019" ph="..." />
+            <marker date="1592534354961" expanded="true" signature="151760:151991" ph="..." />
+            <marker date="1592534354961" expanded="true" signature="151795:151959" ph="{...}" />
+            <marker date="1592534354961" expanded="true" signature="152046:152407" ph="..." />
+            <marker date="1592534354961" expanded="false" signature="152117:152210" ph="..." />
+            <marker date="1592534354961" expanded="true" signature="152211:152379" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Bms_api_for_vms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="51" column="22" lean-forward="false" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Bms_api_for_vms_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding>
+            <marker date="1599711861167" expanded="true" signature="245:461" ph="SELECT prebo... bms_vms_prebook_visitors" />
+            <marker date="1599711861167" expanded="true" signature="634:765" ph="SELECT prebo... bms_vms_prebook_visitors" />
+            <marker date="1599711861167" expanded="true" signature="935:1058" ph="SELECT mobil... bms_vms_prebook_visitors" />
+            <marker date="1599711861167" expanded="true" signature="1438:1631" ph="SELECT frequ... bms_vms_frequent_visitor" />
+            <marker date="1599711861167" expanded="true" signature="1844:2037" ph="SELECT frequ... bms_vms_frequent_visitor" />
+            <marker date="1599711861167" expanded="true" signature="2223:2405" ph="SELECT mobil... bms_vms_frequent_visitor" />
+            <marker date="1599711861167" expanded="true" signature="2770:2944" ph="SELECT note_... " />
+            <marker date="1599711861167" expanded="true" signature="3285:3460" ph="SELECT panic... bms_vms_panic_alert" />
+            <marker date="1599711861167" expanded="true" signature="5327:5496" ph="SELECT push_... bms_property_units" />
+            <marker date="1599711861167" expanded="true" signature="5860:6035" ph="SELECT push_... bms_property_unit_tenants" />
+            <marker date="1599711861167" expanded="true" signature="6406:6582" ph="SELECT push_... bms_property_unit_ma_users" />
+            <marker date="1599711861167" expanded="true" signature="6788:9206" ph="SELECT a.uni... bms_property_units" />
+            <marker date="1599711861167" expanded="true" signature="6924:7126" ph="SELECT CONCA... bms_property_units" />
+            <marker date="1599711861167" expanded="true" signature="7511:7649" ph="SELECT CONCA... bms_property_unit_ma_users" />
+            <marker date="1599711861167" expanded="true" signature="7676:7814" ph="SELECT CONCA... bms_property_unit_ma_users" />
+            <marker date="1599711861167" expanded="true" signature="7841:7979" ph="SELECT CONCA... bms_property_unit_ma_users" />
+            <marker date="1599711861167" expanded="true" signature="8006:8144" ph="SELECT CONCA... bms_property_unit_ma_users" />
+            <marker date="1599711861167" expanded="true" signature="8171:8309" ph="SELECT CONCA... bms_property_unit_ma_users" />
+            <marker date="1599711861167" expanded="true" signature="8588:8790" ph="SELECT CONCA... bms_property_units" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

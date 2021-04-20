@@ -1,0 +1,87 @@
+ALTER TABLE bms_property   
+  ADD COLUMN `developer_email_addr` VARCHAR(100) NULL AFTER `property_under`;
+
+CREATE TABLE `bms_defect` (
+  `defect_id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `property_id` int(11) NOT NULL,
+  `unit_id` bigint(20) NOT NULL,
+  `defect_name` varchar(250) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `defect_location` varchar(50) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `defect_status` char(1) COLLATE utf8mb4_unicode_ci DEFAULT 'O' COMMENT 'O=Open, C=Close',
+  `defect_close_remarks` text CHARACTER SET utf8 COLLATE utf8_unicode_ci,
+  `created_by` bigint(20) DEFAULT NULL,
+  `created_by_type` char(1) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `created_date` date DEFAULT NULL,
+  `updated_by` varchar(200) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `updated_date` date DEFAULT NULL,
+  PRIMARY KEY (`defect_id`)
+) ENGINE=MyISAM AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+
+
+CREATE TABLE `bms_defect_forum` (
+  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `defect_id` bigint(20) DEFAULT NULL,
+  `comment_date` datetime NOT NULL,
+  `comment_by` bigint(20) DEFAULT NULL,
+  `comment` text,
+  `img_name` varchar(200) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
+
+
+
+CREATE TABLE `bms_defect_img` (
+  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `defect_id` bigint(20) NOT NULL,
+  `img_name` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
+
+
+CREATE TABLE `bms_defect_log` (
+  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `defect_id` bigint(20) DEFAULT NULL,
+  `log_date` datetime DEFAULT NULL,
+  `log_by` bigint(20) DEFAULT NULL,
+  `log_remarks` varchar(250) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
+
+
+
+// Update config/config_items.php and add below code
+$config ['defect_forum_upload'] = array (
+    'upload_path' => 'bms_uploads/defect_forum_upload/',
+    'allowed_types'=> 'gif|jpg|jpeg|png|pdf',
+    'file_ext_tolower' => true
+);
+$config ['defect_file_upload'] = array (
+    'upload_path' => 'bms_uploads/defect_uploads/',
+    'allowed_types'=> 'gif|jpg|jpeg|png|pdf',
+    'file_ext_tolower' => true
+);
+$config ['defect_file_upload_temp'] = array (
+    'upload_path' => 'bms_uploads/defect_uploads_temp/',
+    'allowed_types'=> 'gif|jpg|jpeg|png|pdf',
+    'file_ext_tolower' => true
+);
+$config['defect_filter_status'] = array("all"=>"All","O"=>"Open","C"=>"Closed");
+
+// Create new folder inside "bms_uploads" and name it "defect_forum_upload"
+// Create new folder inside "bms_uploads" and name it "defect_uploads"
+// Create new folder inside "bms_uploads" and name it "defect_uploads_temp"
+
+
+
+// Sidebar need to add code below:
+<?php if(in_array($_SESSION['bms']['designation_id'],$this->config->item('hr_access_desi')) || in_array($_SESSION['bms']['designation_id'],array(2,3,9,18,27)))  { ?>
+	<li class="<?php echo in_array($this->uri->segment(2), array('defect_list', 'defect_details')) ? 'active' : '';?>">
+		<a href="<?php echo base_url('index.php/bms_defect/defect_list');?>"><i class="fa fa-comment"></i> <span>Defect</span></a>
+	</li>
+<?php } ?>
+
+// bms_property_model updated
+// property_add_view.php updated
+
+// uploaded defect related controller, model and views

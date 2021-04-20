@@ -1,0 +1,28 @@
+#Order Deny,Allow
+#Require all denied
+#Allow from localhost
+
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L] 
+
+ErrorDocument 404 http://%{HTTP_HOST}/
+ErrorDocument 403 http://%{HTTP_HOST}/
+ErrorDocument 401 http://%{HTTP_HOST}/
+</IfModule>
+AddType application/octet-stream .pdf
+
+# BEGIN cPanel-generated php ini directives, do not edit
+# Manual editing of this file may result in unexpected behavior.
+# To make changes to this file, use the cPanel MultiPHP INI Editor (Home >> Software >> MultiPHP INI Editor)
+# For more information, read our documentation (https://go.cpanel.net/EA4ModifyINI)
+<IfModule php5_module>
+
+</IfModule>
+<IfModule lsapi_module>
+
+</IfModule>
+# END cPanel-generated php ini directives, do not edit

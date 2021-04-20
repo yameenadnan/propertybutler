@@ -1,0 +1,26 @@
+CREATE TABLE `bms_property_developer` (
+  `property_dev_id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `property_id` int(20) DEFAULT NULL,
+  `email_addr` varchar(200) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `password` varchar(250) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `forgot_pass_key` varchar(20) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `designation` varchar(200) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `created_by` bigint(20) DEFAULT NULL,
+  `created_date` date DEFAULT NULL,
+  `updated_by` bigint(20) DEFAULT NULL,
+  `updated_date` date DEFAULT NULL,
+  PRIMARY KEY (`property_dev_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+
+
+1)-	header.php 						
+2)-	Bms_property_model.php              
+3)- property_add_view.php			
+4)- Bms_property.php
+5)- Bms_index.php
+6)- sidebar.php
+7)- Bms_masters_model.php
+8)- Bms_defect.php
+9)- defect_new_view.php
+10)- Bms_defect_model.php

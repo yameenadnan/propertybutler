@@ -1,0 +1,10 @@
+@charset "UTF-8";
+@media(max-width:767px){
+    body {
+        margin-bottom: 45px;
+    }
+    .to-do-sm {    padding-right: 5px; }
+    
+    .cust-container-fluid { padding-left: 5px;padding-right: 5px; }
+    .sub_sop_details { padding-left: 15px !important; }
+}
