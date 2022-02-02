@@ -1,5 +1,4 @@
 <?php
-test
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Bms_agm_egm extends CI_Controller {
